@@ -10,16 +10,11 @@
 2. Get your API_ID and API_HASH:
 3. Configure the app:
    - Open `config.py` and add your `API_ID` and `API_HASH`:
-   - (Optional) To use a proxy, set `USE_PROXY` to `True` in `config.py` and configure `proxy.txt` with your proxy details.
-4. Create a `sessions` folder.
 
 ## Usage
 
 1. Run the bot:
 2. The bot works with all accounts using the same `API_ID` and `API_HASH`.
-
-
-- Use Python 3.11.
 
 
 
