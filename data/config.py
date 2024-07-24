@@ -1,6 +1,6 @@
 # api id, hash
-API_ID = 11111111
-API_HASH = 'Your api hash'
+API_ID = YEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEs
+API_HASH = addsth
 
 USE_TG_BOT = False # True if you want use tg, else False
 BOT_TOKEN = '283993:kdmioieiweikiokeocki4okew' # API TOKEN get in @BotFather
@@ -33,11 +33,11 @@ MINI_SLEEP = [3,7] #[min,max]
 # доп задержка после 8часов 
 SLEEP_8HOURS = [60*60,120*60] #[min,max] seconds
 
-hello ='''              _                               __  _        
- _ __    ___ | |_  _   _   __ _  ___   ___   / _|| |_  ___ 
-| '_ \  / _ \| __|| | | | / _` |/ __| / _ \ | |_ | __|/ __|
-| |_) ||  __/| |_ | |_| || (_| |\__ \| (_) ||  _|| |_ \__ \\
-| .__/  \___| \__| \__, | \__,_||___/ \___/ |_|   \__||___/
-|_|                |___/        
+hello =''' 
+__ _   __ _  _ __ ___  
+ / _` | / _` || '__|/ _ \ 
+| (_| || (_| || |  | (_) |
+ \__, | \__,_||_|   \___/ 
+ |___/
 
 '''
